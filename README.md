@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legolitaz01
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python and want to learn game engines/game design
+- 🌱 I’m currently learning python/reflex and want to learn game engines/game design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me legolitaz on discord
 - 😄 Pronouns: ...
